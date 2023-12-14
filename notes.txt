@@ -1,0 +1,9 @@
+leaflet.js->api for map
+
+js is synchronous bcz it executes line by line- API->jsonplaceholder-users
+
+openweatherapp->api
+
+https://pastebin.com/0tpaG5zS
+
+vh->vertical height- it takes entire height

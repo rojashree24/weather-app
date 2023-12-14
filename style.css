@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 24%;
+    height: 295px;
+    /* background-color: aqua; */
+    margin-top: 140px;
+    margin-left: 870px;
+    border-radius: 4%;
+    text-align: center;
+    border: 2px solid rgb(248, 99, 223);
+    padding: 5px;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    z-index: 1000;
+}
+
+
+#locationName{
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 15px;
+}
+
+#description{
+    font-size: 25px;
+    padding: 10px;
+}
+
+#temp{
+    font-size: 28px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+#windSpeed{
+    padding: 20px;
+    font-size: 20px;
+    /* margin-top: 10px; */
+}
+
+#map {
+    height: 100vh;
+    position: relative;
+}
+
+#icon{
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    /* margin-left:120px; */
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
